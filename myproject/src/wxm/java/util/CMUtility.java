@@ -3,7 +3,7 @@ package wxm.java.util;
 import java.util.Scanner;
 
 /**
- * @author xmwang w1239978244@163.com
+ * @author xmwang
  * @Description CMUtility工具类，直接调用方法使用它的功能
  * @date 2020年12月18日
  */

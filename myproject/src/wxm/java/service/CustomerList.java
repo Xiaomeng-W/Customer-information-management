@@ -25,7 +25,7 @@ public class CustomerList {
 	
 	/**
 	 * 
-	 * @author xmwang w1239978244@163.com
+	 * @author xmwang
 	 * @Description 将指定的客户添加到数组中
 	 * @date 2020年12月18日
 	 * @param customer
@@ -40,7 +40,7 @@ public class CustomerList {
 	
 	/**
 	 * 
-	 * @author xmwang w1239978244@163.com
+	 * @author xmwang
 	 * @Description 修改指定索引位置的客户信息
 	 * @date 2020年12月18日
 	 * @param index
@@ -55,7 +55,7 @@ public class CustomerList {
 	
 	/**
 	 * 
-	 * @author xmwang w1239978244@163.com
+	 * @author xmwang
 	 * @Description 删除指定索引位置上的客户
 	 * @date 2020年12月18日
 	 * @param index
@@ -71,7 +71,7 @@ public class CustomerList {
 	
 	/**
 	 * 
-	 * @author xmwang w1239978244@163.com
+	 * @author xmwang
 	 * @Description 获取所有客户的信息
 	 * @date 2020年12月18日
 	 * @return
@@ -85,7 +85,7 @@ public class CustomerList {
 	
 	/**
 	 * 
-	 * @author xmwang w1239978244@163.com
+	 * @author xmwang
 	 * @Description 获取指定位置上的客户
 	 * @date 2020年12月18日
 	 * @param index
@@ -98,7 +98,7 @@ public class CustomerList {
 
 	/**
 	 * 
-	 * @author xmwang w1239978244@163.com
+	 * @author xmwang
 	 * @Description 获取客户的数量
 	 * @date 2020年12月18日
 	 * @return

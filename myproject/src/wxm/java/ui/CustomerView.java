@@ -3,7 +3,7 @@ package wxm.java.ui;
 import wxm.java.bean.Customer;
 
 /**
- * @author xmwang w1239978244@163.com
+ * @author xmwang
  * @Description CustomerView为主模块，负责菜单的显示和处理用户操作
  * @date 2020年12月18日
  */
